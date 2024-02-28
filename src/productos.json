@@ -1,0 +1,220 @@
+[
+    {
+      "id": "hardware-01",
+      "nombre": "Laptop Gaming",
+      "precio": 1500,
+      "stock": 10,
+      "descripcion": "Potente laptop gaming con procesador Intel Core i7 y tarjeta gráfica NVIDIA GeForce RTX 3080.",
+      "categoria": "Hardware",
+      "imagen": "/img/logo_react.jpg"
+      
+    },
+    {
+      "id": "hardware-02",
+      "nombre": "Monitor UltraWide",
+      "precio": 800,
+      "stock": 15,
+      "descripcion": "Monitor ultra panorámico de 34 pulgadas con resolución 3440x1440 y tecnología IPS.",
+      "categoria": "Hardware",
+      "imagen": "https://f.fcdn.app/imgs/a61f83/www.compupel.com.uy/coeluy/caa0/webp/catalogo/105014110501411/460x460/monitor-led-samsung-c24f390fhl-pantalla-curvada-24-pulgadas-full-hd-monitor-led-samsung-c24f390fhl-pantalla-curvada-24-pulgadas-full-hd.jpg"
+    },
+    {
+      "id": "hardware-03",
+      "nombre": "Teclado Mecánico",
+      "precio": 100,
+      "stock": 20,
+      "descripcion": "Teclado mecánico retroiluminado con switches Cherry MX Red para una experiencia de escritura óptima.",
+      "categoria": "Hardware",
+      "imagen": "ruta/a/imagen3.jpg"
+    },
+    {
+      "id": "hardware-04",
+      "nombre": "Mouse Gaming",
+      "precio": 70,
+      "stock": 25,
+      "descripcion": "Mouse gaming con sensor óptico de alta precisión, 10 botones programables y retroiluminación RGB.",
+      "categoria": "Hardware",
+      "imagen": "https://cintegralads.b-cdn.net/wp-content/uploads/2024/01/MOUSE-INALAMBRICO-GENIUS-NX-7000-BLACK-600x600.jpg"
+    },
+    {
+      "id": "hardware-05",
+      "nombre": "Tarjeta Gráfica",
+      "precio": 600,
+      "stock": 8,
+      "descripcion": "Tarjeta gráfica NVIDIA GeForce RTX 3060 Ti con 8 GB de memoria GDDR6 para juegos de alta calidad.",
+      "categoria": "Hardware",
+      "imagen": "ruta/a/imagen5.jpg"
+    },
+    {
+      "id": "hardware-06",
+      "nombre": "Disco SSD",
+      "precio": 120,
+      "stock": 30,
+      "descripcion": "Disco de estado sólido de 1 TB de capacidad con interfaz SATA III para un rendimiento de almacenamiento rápido.",
+      "categoria": "Hardware",
+      "imagen": "ruta/a/imagen6.jpg"
+    },
+    {
+      "id": "software-01",
+      "nombre": "Licencia de Windows 10",
+      "precio": 120,
+      "stock": 20,
+      "descripcion": "Licencia original de Windows 10 Pro con actualizaciones automáticas y características avanzadas.",
+      "categoria": "Software",
+      "imagen": "ruta/a/imagen7.jpg"
+    },
+    {
+      "id": "software-02",
+      "nombre": "Antivirus McAfee",
+      "precio": 50,
+      "stock": 50,
+      "descripcion": "Antivirus McAfee Total Protection para protección completa contra virus, malware y ransomware.",
+      "categoria": "Software",
+      "imagen": "ruta/a/imagen8.jpg"
+    },
+    {
+      "id": "software-03",
+      "nombre": "Microsoft Office 365",
+      "precio": 100,
+      "stock": 30,
+      "descripcion": "Suite de productividad Microsoft Office 365 con Word, Excel, PowerPoint, Outlook y más.",
+      "categoria": "Software",
+      "imagen": "ruta/a/imagen9.jpg"
+    },
+    {
+      "id": "software-04",
+      "nombre": "Adobe Photoshop",
+      "precio": 300,
+      "stock": 15,
+      "descripcion": "Software de edición de imágenes Adobe Photoshop CC para diseño gráfico profesional.",
+      "categoria": "Software",
+      "imagen": "ruta/a/imagen10.jpg"
+    },
+    {
+      "id": "software-05",
+      "nombre": "Autodesk AutoCAD",
+      "precio": 500,
+      "stock": 10,
+      "descripcion": "Software de diseño asistido por computadora (CAD) Autodesk AutoCAD para dibujo técnico 2D y modelado 3D.",
+      "categoria": "Software",
+      "imagen": "ruta/a/imagen11.jpg"
+    },
+    {
+      "id": "software-06",
+      "nombre": "Adobe Premiere Pro",
+      "precio": 400,
+      "stock": 8,
+      "descripcion": "Software de edición de video Adobe Premiere Pro CC para producción de video profesional.",
+      "categoria": "Software",
+      "imagen": "ruta/a/imagen12.jpg"
+    },
+    {
+      "id": "accesorios-01",
+      "nombre": "Funda para Portátil",
+      "precio": 20,
+      "stock": 50,
+      "descripcion": "Funda acolchada para portátil de 15 pulgadas con compartimento adicional para accesorios.",
+      "categoria": "Accesorios",
+      "imagen": "ruta/a/imagen13.jpg"
+    },
+    {
+      "id": "accesorios-02",
+      "nombre": "Auriculares Inalámbricos",
+      "precio": 80,
+      "stock": 40,
+      "descripcion": "Auriculares inalámbricos con cancelación de ruido y calidad de sonido premium.",
+      "categoria": "Accesorios",
+      "imagen": "ruta/a/imagen14.jpg"
+    },
+    {
+      "id": "accesorios-03",
+      "nombre": "Cable HDMI 4K",
+      "precio": 10,
+      "stock": 60,
+      "descripcion": "Cable HDMI de alta velocidad compatible con resolución 4K y HDR para una calidad de imagen excepcional.",
+      "categoria": "Accesorios",
+      "imagen": "ruta/a/imagen15.jpg"
+    },
+    {
+      "id": "accesorios-04",
+      "nombre": "Mousepad Gamer",
+      "precio": 15,
+      "stock": 70,
+      "descripcion": "Mousepad extra grande para juegos con superficie lisa y base antideslizante.",
+      "categoria": "Accesorios",
+      "imagen": "ruta/a/imagen16.jpg"
+    },
+    {
+      "id": "accesorios-05",
+      "nombre": "Soporte para Smartphone",
+      "precio": 8,
+      "stock": 80,
+      "descripcion": "Soporte ajustable para smartphone con diseño compacto y ángulos de visión flexibles.",
+      "categoria": "Accesorios",
+      "imagen": "ruta/a/imagen17.jpg"
+    },
+    {
+      "id": "accesorios-06",
+      "nombre": "Teclado Inalámbrico",
+      "precio": 30,
+      "stock": 45,
+      "descripcion": "Teclado inalámbrico ultradelgado con conexión Bluetooth y diseño ergonómico.",
+      "categoria": "Accesorios",
+      "imagen": "ruta/a/imagen18.jpg"
+    },
+    {
+      "id": "outlet-01",
+      "nombre": "Monitor LED 24 Pulgadas",
+      "precio": 100,
+      "stock": 5,
+      "descripcion": "Monitor LED de 24 pulgadas con resolución Full HD, ideal para uso doméstico y oficina.",
+      "categoria": "Outlet",
+      "imagen": "ruta/a/imagen19.jpg"
+    },
+    {
+      "id": "outlet-02",
+      "nombre": "Teclado USB",
+      "precio": 15,
+      "stock": 8,
+      "descripcion": "Teclado USB estándar con diseño resistente y teclas de pulsación suave.",
+      "categoria": "Outlet",
+      "imagen": "ruta/a/imagen20.jpg"
+    },
+    {
+      "id": "outlet-03",
+      "nombre": "Disco Duro Externo",
+      "precio": 60,
+      "stock": 12,
+      "descripcion": "Disco duro externo de 1 TB con conexión USB 3.0 para almacenamiento de datos seguro y portátil.",
+      "categoria": "Outlet",
+      "imagen": "ruta/a/imagen21.jpg"
+    },
+    {
+      "id": "outlet-04",
+      "nombre": "Memoria USB 32GB",
+      "precio": 8,
+      "stock": 20,
+      "descripcion": "Memoria USB de 32 GB con diseño compacto y velocidad de transferencia rápida.",
+      "categoria": "Outlet",
+      "imagen": "ruta/a/imagen22.jpg"
+    },
+    {
+      "id": "outlet-05",
+      "nombre": "Ratón Óptico",
+      "precio": 10,
+      "stock": 15,
+      "descripcion": "Ratón óptico con sensor de alta precisión y diseño ergonómico para mayor comodidad.",
+      "categoria": "Outlet",
+      "imagen": "ruta/a/imagen23.jpg"
+    },
+    {
+      "id": "outlet-06",
+      "nombre": "Baterías Recargables",
+      "precio": 5,
+      "stock": 30,
+      "descripcion": "Paquete de 4 baterías recargables AA con capacidad de 2000 mAh cada una.",
+      "categoria": "Outlet",
+      "imagen": "ruta/a/imagen24.jpg"
+    }
+  ]
+  
