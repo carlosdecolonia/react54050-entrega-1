@@ -6,7 +6,7 @@
       "stock": 10,
       "descripcion": "Potente laptop gaming con procesador Intel Core i7 y tarjeta gráfica NVIDIA GeForce RTX 3080.",
       "categoria": "Hardware",
-      "imagen": "/img/logo_react.jpg"
+      "imagen": "https://m.media-amazon.com/images/I/61BuT2yTQ6S._AC_SL1500_.jpg"
       
     },
     {
@@ -25,7 +25,7 @@
       "stock": 20,
       "descripcion": "Teclado mecánico retroiluminado con switches Cherry MX Red para una experiencia de escritura óptima.",
       "categoria": "Hardware",
-      "imagen": "ruta/a/imagen3.jpg"
+      "imagen": "https://f.fcdn.app/imgs/d5afb3/www.zonatecno.com.uy/zoteuy/0da2/webp/catalogo/99068_99068_1/1500-1500/teclado-gamer-redragon-draconic-mecanico-rgb-black-teclado-gamer-redragon-draconic-mecanico-rgb-black.jpg"
     },
     {
       "id": "hardware-04",
@@ -43,7 +43,7 @@
       "stock": 8,
       "descripcion": "Tarjeta gráfica NVIDIA GeForce RTX 3060 Ti con 8 GB de memoria GDDR6 para juegos de alta calidad.",
       "categoria": "Hardware",
-      "imagen": "ruta/a/imagen5.jpg"
+      "imagen": "https://www.profesionalreview.com/wp-content/uploads/2017/04/C%C3%B3mo-entender-las-especificaciones-de-la-tarjeta-gr%C3%A1fica-3.jpg"
     },
     {
       "id": "hardware-06",
@@ -52,7 +52,7 @@
       "stock": 30,
       "descripcion": "Disco de estado sólido de 1 TB de capacidad con interfaz SATA III para un rendimiento de almacenamiento rápido.",
       "categoria": "Hardware",
-      "imagen": "ruta/a/imagen6.jpg"
+      "imagen": "https://djuv6ccs3wpor.cloudfront.net/images/thumbs/0050229_disco-solido-kingston-ssd-25-240gb-sata-iii-a400.jpeg"
     },
     {
       "id": "software-01",
@@ -61,7 +61,7 @@
       "stock": 20,
       "descripcion": "Licencia original de Windows 10 Pro con actualizaciones automáticas y características avanzadas.",
       "categoria": "Software",
-      "imagen": "ruta/a/imagen7.jpg"
+      "imagen": "https://3clics.uy/images/stories/virtuemart/product/WIN10PN.png"
     },
     {
       "id": "software-02",
@@ -70,7 +70,7 @@
       "stock": 50,
       "descripcion": "Antivirus McAfee Total Protection para protección completa contra virus, malware y ransomware.",
       "categoria": "Software",
-      "imagen": "ruta/a/imagen8.jpg"
+      "imagen": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202309/15/00128610761166____10__1200x1200.jpg"
     },
     {
       "id": "software-03",
@@ -79,7 +79,7 @@
       "stock": 30,
       "descripcion": "Suite de productividad Microsoft Office 365 con Word, Excel, PowerPoint, Outlook y más.",
       "categoria": "Software",
-      "imagen": "ruta/a/imagen9.jpg"
+      "imagen": "https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2021/01/Microsoft-Office-365.jpg"
     },
     {
       "id": "software-04",
@@ -88,7 +88,7 @@
       "stock": 15,
       "descripcion": "Software de edición de imágenes Adobe Photoshop CC para diseño gráfico profesional.",
       "categoria": "Software",
-      "imagen": "ruta/a/imagen10.jpg"
+      "imagen": "https://img-c.udemycdn.com/course/480x270/5346430_f677.jpg"
     },
     {
       "id": "software-05",
@@ -97,7 +97,7 @@
       "stock": 10,
       "descripcion": "Software de diseño asistido por computadora (CAD) Autodesk AutoCAD para dibujo técnico 2D y modelado 3D.",
       "categoria": "Software",
-      "imagen": "ruta/a/imagen11.jpg"
+      "imagen": "https://5.imimg.com/data5/CJ/JY/RR/SELLER-43556904/item-2356550-943.png"
     },
     {
       "id": "software-06",
@@ -106,7 +106,7 @@
       "stock": 8,
       "descripcion": "Software de edición de video Adobe Premiere Pro CC para producción de video profesional.",
       "categoria": "Software",
-      "imagen": "ruta/a/imagen12.jpg"
+      "imagen": "https://static.wixstatic.com/media/e524e1_9946dee7193949faacf682f1b27899fd~mv2.png/v1/fill/w_438,h_438,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e524e1_9946dee7193949faacf682f1b27899fd~mv2.png"
     },
     {
       "id": "accesorios-01",
@@ -115,7 +115,7 @@
       "stock": 50,
       "descripcion": "Funda acolchada para portátil de 15 pulgadas con compartimento adicional para accesorios.",
       "categoria": "Accesorios",
-      "imagen": "ruta/a/imagen13.jpg"
+      "imagen": "https://www.mosca.com.uy/media/catalog/product/4/8/4841233.jpg"
     },
     {
       "id": "accesorios-02",
@@ -124,7 +124,7 @@
       "stock": 40,
       "descripcion": "Auriculares inalámbricos con cancelación de ruido y calidad de sonido premium.",
       "categoria": "Accesorios",
-      "imagen": "ruta/a/imagen14.jpg"
+      "imagen": "https://f.fcdn.app/imgs/56857d/joacamar.com.uy/joacuy/4229/webp/catalogo/WH-CH520_BLK_1/2000-2000/auriculares-inalambricos-sony-wh-ch520-black.jpg"
     },
     {
       "id": "accesorios-03",
@@ -133,88 +133,7 @@
       "stock": 60,
       "descripcion": "Cable HDMI de alta velocidad compatible con resolución 4K y HDR para una calidad de imagen excepcional.",
       "categoria": "Accesorios",
-      "imagen": "ruta/a/imagen15.jpg"
-    },
-    {
-      "id": "accesorios-04",
-      "nombre": "Mousepad Gamer",
-      "precio": 15,
-      "stock": 70,
-      "descripcion": "Mousepad extra grande para juegos con superficie lisa y base antideslizante.",
-      "categoria": "Accesorios",
-      "imagen": "ruta/a/imagen16.jpg"
-    },
-    {
-      "id": "accesorios-05",
-      "nombre": "Soporte para Smartphone",
-      "precio": 8,
-      "stock": 80,
-      "descripcion": "Soporte ajustable para smartphone con diseño compacto y ángulos de visión flexibles.",
-      "categoria": "Accesorios",
-      "imagen": "ruta/a/imagen17.jpg"
-    },
-    {
-      "id": "accesorios-06",
-      "nombre": "Teclado Inalámbrico",
-      "precio": 30,
-      "stock": 45,
-      "descripcion": "Teclado inalámbrico ultradelgado con conexión Bluetooth y diseño ergonómico.",
-      "categoria": "Accesorios",
-      "imagen": "ruta/a/imagen18.jpg"
-    },
-    {
-      "id": "outlet-01",
-      "nombre": "Monitor LED 24 Pulgadas",
-      "precio": 100,
-      "stock": 5,
-      "descripcion": "Monitor LED de 24 pulgadas con resolución Full HD, ideal para uso doméstico y oficina.",
-      "categoria": "Outlet",
-      "imagen": "ruta/a/imagen19.jpg"
-    },
-    {
-      "id": "outlet-02",
-      "nombre": "Teclado USB",
-      "precio": 15,
-      "stock": 8,
-      "descripcion": "Teclado USB estándar con diseño resistente y teclas de pulsación suave.",
-      "categoria": "Outlet",
-      "imagen": "ruta/a/imagen20.jpg"
-    },
-    {
-      "id": "outlet-03",
-      "nombre": "Disco Duro Externo",
-      "precio": 60,
-      "stock": 12,
-      "descripcion": "Disco duro externo de 1 TB con conexión USB 3.0 para almacenamiento de datos seguro y portátil.",
-      "categoria": "Outlet",
-      "imagen": "ruta/a/imagen21.jpg"
-    },
-    {
-      "id": "outlet-04",
-      "nombre": "Memoria USB 32GB",
-      "precio": 8,
-      "stock": 20,
-      "descripcion": "Memoria USB de 32 GB con diseño compacto y velocidad de transferencia rápida.",
-      "categoria": "Outlet",
-      "imagen": "ruta/a/imagen22.jpg"
-    },
-    {
-      "id": "outlet-05",
-      "nombre": "Ratón Óptico",
-      "precio": 10,
-      "stock": 15,
-      "descripcion": "Ratón óptico con sensor de alta precisión y diseño ergonómico para mayor comodidad.",
-      "categoria": "Outlet",
-      "imagen": "ruta/a/imagen23.jpg"
-    },
-    {
-      "id": "outlet-06",
-      "nombre": "Baterías Recargables",
-      "precio": 5,
-      "stock": 30,
-      "descripcion": "Paquete de 4 baterías recargables AA con capacidad de 2000 mAh cada una.",
-      "categoria": "Outlet",
-      "imagen": "ruta/a/imagen24.jpg"
+      "imagen": "https://icase.uy/wp-content/uploads/2023/08/hoco-us03-hdmi-2-0-male-to-male-4k-hd-data-cable-3m.jpg"
     }
   ]
   
